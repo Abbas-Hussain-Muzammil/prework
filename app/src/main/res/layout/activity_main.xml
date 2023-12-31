@@ -7,6 +7,8 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+
+
     <ImageView
         android:id="@+id/myImageView"
         android:layout_width="wrap_content"
@@ -21,7 +23,7 @@
         android:id="@+id/myTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="Hello World, It's me Luke!"
         app:layout_constraintTop_toBottomOf="@id/myImageView"
         app:layout_constraintBottom_toTopOf="@id/myButton"
         app:layout_constraintStart_toStartOf="parent"
@@ -31,7 +33,7 @@
         android:id="@+id/myButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Click Me!"
+        android:text="Tap to say me hi!"
         app:layout_constraintTop_toBottomOf="@id/myTextView"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
