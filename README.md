@@ -20,11 +20,11 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of the implementation! [PreworkGIF](https://github.com/Abbas-Hussain-Muzammil/prework/assets/87604394/a94ebfea-ac28-428e-95fc-0b8fb6b98386)
- features:
-## Notes
+Here's a walkthrough of the implementation! ![PreworkGIFF](https://github.com/Abbas-Hussain-Muzammil/prework/assets/87604394/ab9e0368-263d-44f7-8858-fa9cfaf9544c)
 
-No
+ ## Features:
+Image view to display the image.
+Button, when the button is tapped, a new image is displayed with a new text and toast.
 
 ## License
 
